@@ -1,0 +1,10 @@
+<svg width="1000" height="280" viewBox="0 0 1000 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect id="Part_Street" y="66" width="1000" height="145" fill="#565656"/>
+<g id="PLACE_TrafficLight">
+<rect id="Frame2" width="6.91975" height="134.025" transform="matrix(-1 0 0 1 715.778 145.315)" fill="#D9D9D9"/>
+<rect id="Frame1" width="59" height="145.315" transform="matrix(-1 0 0 1 742 0)" fill="#D9D9D9"/>
+<ellipse id="Light3" rx="12.5648" ry="11.6543" transform="matrix(-1 0 0 1 712.318 107.438)" fill="black"/>
+<ellipse id="Light2" rx="12.5648" ry="11.6543" transform="matrix(-1 0 0 1 712.318 66.284)" fill="black"/>
+<ellipse id="Light1" rx="12.5648" ry="11.6543" transform="matrix(-1 0 0 1 712.318 28.0432)" fill="black"/>
+</g>
+</svg>

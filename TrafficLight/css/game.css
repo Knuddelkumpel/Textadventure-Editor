@@ -1,0 +1,99 @@
+:root {
+    --promptColor: #c3adec;
+    --optionColor: #5d3d99;
+    --conditionColor: #811a48;
+    --missingColor: #ca1616;
+    --playedColor: #296e29;
+}
+
+body{
+    overflow: hidden;
+}
+
+#nodesContainer{        
+    height: 60vh;
+    overflow: scroll;
+}
+
+#spacer{
+    height: 1vh;
+}
+#optionsContainer{
+    height: 30vh;
+    overflow: scroll;
+}
+#visualsContainer, #canvasContainer{
+    height: 91vh;
+    overflow: scroll;
+}
+
+.paper-noline, .paper{
+    background-color: #fff;
+    background-image:
+    linear-gradient(#eee .1em, transparent .1em);
+    background-size: 100% 1.2em;
+    box-shadow: 0px 0px 5px 0px #888;
+}
+.paper {
+    background-image:
+    linear-gradient(90deg, transparent 90%, #abced4 90%, transparent 91%),
+    linear-gradient(#eee .1em, transparent .1em);
+}
+
+
+.place-clickable:hover rect, .place-clickable:hover path{
+    /*paint-order: stroke;*/
+    stroke:var(--optionColor);
+    fill:var(--optionColor);
+}
+
+.selectedPlace rect, .selectedPlace path{
+    stroke:var(--promptColor);
+    fill:var(--promptColor);
+}
+
+
+.imageWrapper .row :nth-child(2){
+    border-left: 5px solid #abced4;
+    border-right: 5px solid #abced4;
+}
+.imageWrapper .row{
+    width: 100%;
+
+}
+.imageWrapper svg{
+    width: 100%;
+    height: auto;
+
+}
+
+
+
+.jumplogArrow{
+    background-image: url(../icons/arrow-right.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center; 
+    background-blend-mode: lighten;
+}
+
+.scaler {
+    transform-origin: top left;
+    transform: scale(1);
+}
+.canvas {
+    width: 1000vw;
+    height: 1000vh;
+   
+}
+
+.canvas svg{
+    width: 100%;
+    height: 100%;   
+}
+
+kbd{
+    margin-left: 5px;
+}
+
+

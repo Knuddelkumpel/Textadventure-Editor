@@ -1,0 +1,16 @@
+<svg width="1020" height="770" viewBox="0 0 1020 770" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect id="Rectangle 1" x="10" y="437" width="1000" height="203" fill="#4A4A4A"/>
+<g id="TrafficLight_Base">
+<rect id="Frame2" x="809" y="386" width="19" height="368" fill="#D9D9D9"/>
+<rect id="Frame1" x="737" y="10" width="162" height="399" fill="#D9D9D9"/>
+<ellipse id="Light3" cx="818.5" cy="305" rx="34.5" ry="32" fill="black"/>
+<ellipse id="Light2" cx="818.5" cy="192" rx="34.5" ry="32" fill="black"/>
+<ellipse id="Light1" cx="818.5" cy="87" rx="34.5" ry="32" fill="black"/>
+</g>
+<rect id="Border" x="5" y="5" width="1010" height="760" stroke="black" stroke-width="10"/>
+<line id="Line 1" x1="831.491" y1="81.4804" x2="830.491" y2="107.48" stroke="black" stroke-width="25"/>
+<path id="Star 1" d="M819 74L821.694 82.9828H830.413L823.359 88.5344L826.053 97.5172L819 91.9656L811.947 97.5172L814.641 88.5344L807.587 82.9828H816.306L819 74Z" fill="#61EB31"/>
+<ellipse id="Ellipse 1" cx="818.5" cy="73" rx="9.5" ry="7" fill="#61EB31"/>
+<path id="Vector 1" d="M815.251 71.0015C815.307 71.1192 815.31 71.6405 815.522 71.5557C815.597 71.5256 815.14 71.1299 815.092 71.0813" stroke="white" stroke-width="3" stroke-linecap="round"/>
+<path id="Vector 2" d="M821.796 71.4005C821.603 71.5713 821.503 71.3338 821.636 71.4005" stroke="white" stroke-width="3" stroke-linecap="round"/>
+</svg>

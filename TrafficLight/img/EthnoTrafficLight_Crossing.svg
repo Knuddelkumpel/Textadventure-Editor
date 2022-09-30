@@ -1,0 +1,68 @@
+<svg width="2500" height="1613" viewBox="0 0 2500 1613" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame 1">
+<g id="PLACE_Example_2">
+<g id="Street">
+<rect id="Rectangle 1" x="463" y="1163" width="1500" height="400" fill="black"/>
+<rect id="Rectangle 2" x="1151" y="1163" width="500" height="200" transform="rotate(-90 1151 1163)" fill="black"/>
+</g>
+<g id="Sidewalk">
+<rect id="Rectangle 3" x="463" y="1563" width="1500" height="50" fill="#7D7777"/>
+<rect id="Rectangle 4" x="463" y="1113" width="1500" height="50" fill="#7D7777"/>
+<rect id="Rectangle 5" x="1351" y="1163" width="500" height="50" transform="rotate(-90 1351 1163)" fill="#7D7777"/>
+<rect id="Rectangle 6" x="1101" y="1163" width="500" height="50" transform="rotate(-90 1101 1163)" fill="#7D7777"/>
+</g>
+<g id="zones">
+<g id="diagonal">
+<path id="Vector 5" d="M1115.5 1559L1178.48 1530.14L1122 1490.02L1115.5 1559ZM1396 1164L1333.02 1192.86L1389.5 1232.98L1396 1164ZM1151.66 1518.45L1369.63 1211.5L1359.84 1204.55L1141.87 1511.5L1151.66 1518.45Z" fill="#FF0202"/>
+<path id="Vector 6" d="M1396 1559L1333.09 1529.98L1389.68 1490.01L1396 1559ZM1117 1164L1179.91 1193.02L1123.32 1232.99L1117 1164ZM1359.95 1518.35L1143.25 1211.57L1153.05 1204.65L1369.75 1511.43L1359.95 1518.35Z" fill="#FF0202"/>
+</g>
+<g id="corners">
+<path id="Vector 1" d="M835 1163L998.5 1354V1163H835Z" fill="#0057FF" fill-opacity="0.4"/>
+<path id="Vector 2" d="M1273 1563L1109.5 1372V1563H1273Z" fill="#0057FF" fill-opacity="0.4"/>
+<path id="Vector 4" d="M1676.5 1563L1513 1372V1563H1676.5Z" fill="#0057FF" fill-opacity="0.4"/>
+<path id="Vector 3" d="M1241 1563L1401 1372V1563H1241Z" fill="#0057FF" fill-opacity="0.4"/>
+</g>
+</g>
+<g id="Lines">
+<g id="Lines_2">
+<line id="Line 15" x1="999.862" y1="1168.53" x2="997.533" y2="1557.53" stroke="white" stroke-width="11" stroke-linecap="square" stroke-dasharray="20 22"/>
+<line id="Line 16" x1="1108.86" y1="1168.53" x2="1106.53" y2="1557.53" stroke="white" stroke-width="11" stroke-linecap="square" stroke-dasharray="20 22"/>
+<line id="Line 17" x1="1156.5" y1="1107.5" x2="1345.5" y2="1107.5" stroke="white" stroke-width="11" stroke-linecap="square" stroke-dasharray="20 22"/>
+<line id="Line 18" x1="1156.5" y1="1157.5" x2="1345.5" y2="1157.5" stroke="white" stroke-width="11" stroke-linecap="square" stroke-dasharray="20 22"/>
+<line id="Line 19" x1="1504.86" y1="1168.53" x2="1502.53" y2="1557.53" stroke="white" stroke-width="11" stroke-linecap="square" stroke-dasharray="20 22"/>
+<line id="Line 20" x1="468.5" y1="1357.5" x2="957.5" y2="1357.5" stroke="white" stroke-width="11" stroke-linecap="square"/>
+<line id="Line 21" x1="1120.5" y1="1357.5" x2="1389.5" y2="1357.5" stroke="white" stroke-width="11" stroke-linecap="square"/>
+<line id="Line 22" x1="1518.5" y1="1357.5" x2="1957.5" y2="1357.5" stroke="white" stroke-width="11" stroke-linecap="square"/>
+<line id="Line 23" x1="1408.86" y1="1168.53" x2="1406.53" y2="1557.53" stroke="white" stroke-width="11" stroke-linecap="square" stroke-dasharray="20 22"/>
+</g>
+<g id="arrows">
+<path id="Arrow 5" d="M1571.46 1264.46C1569.51 1266.42 1569.51 1269.58 1571.46 1271.54L1603.28 1303.36C1605.24 1305.31 1608.4 1305.31 1610.36 1303.36C1612.31 1301.4 1612.31 1298.24 1610.36 1296.28L1582.07 1268L1610.36 1239.72C1612.31 1237.76 1612.31 1234.6 1610.36 1232.64C1608.4 1230.69 1605.24 1230.69 1603.28 1232.64L1571.46 1264.46ZM1575 1273H1731V1263H1575V1273Z" fill="white"/>
+<path id="Arrow 6" d="M698.464 1264.46C696.512 1266.42 696.512 1269.58 698.464 1271.54L730.284 1303.36C732.237 1305.31 735.403 1305.31 737.355 1303.36C739.308 1301.4 739.308 1298.24 737.355 1296.28L709.071 1268L737.355 1239.72C739.308 1237.76 739.308 1234.6 737.355 1232.64C735.403 1230.69 732.237 1230.69 730.284 1232.64L698.464 1264.46ZM702 1273H858V1263H702V1273Z" fill="white"/>
+<path id="Arrow 7" d="M861.536 1481.54C863.488 1479.58 863.488 1476.42 861.536 1474.46L829.716 1442.64C827.763 1440.69 824.597 1440.69 822.645 1442.64C820.692 1444.6 820.692 1447.76 822.645 1449.72L850.929 1478L822.645 1506.28C820.692 1508.24 820.692 1511.4 822.645 1513.36C824.597 1515.31 827.763 1515.31 829.716 1513.36L861.536 1481.54ZM702 1483H858V1473H702V1483Z" fill="white"/>
+<path id="Arrow 8" d="M1734.54 1481.54C1736.49 1479.58 1736.49 1476.42 1734.54 1474.46L1702.72 1442.64C1700.76 1440.69 1697.6 1440.69 1695.64 1442.64C1693.69 1444.6 1693.69 1447.76 1695.64 1449.72L1723.93 1478L1695.64 1506.28C1693.69 1508.24 1693.69 1511.4 1695.64 1513.36C1697.6 1515.31 1700.76 1515.31 1702.72 1513.36L1734.54 1481.54ZM1575 1483H1731V1473H1575V1483Z" fill="white"/>
+</g>
+</g>
+</g>
+<g id="PLACE_Example_1">
+<g id="Sidewalk_2">
+<rect id="Rectangle 3_2" x="735" y="450" width="1000" height="50" fill="#7D7777"/>
+<rect id="Rectangle 4_2" x="735" width="1000" height="50" fill="#7D7777"/>
+</g>
+<g id="Street_2">
+<rect id="Rectangle 1_2" x="735" y="50" width="1000" height="400" fill="black"/>
+</g>
+<g id="Lines_3">
+<line id="Line 28" x1="1291.86" y1="55.5328" x2="1289.53" y2="444.526" stroke="white" stroke-width="11" stroke-linecap="square" stroke-dasharray="20 22"/>
+<line id="Line 29" x1="740.5" y1="244.5" x2="1179.5" y2="244.5" stroke="white" stroke-width="11" stroke-linecap="square"/>
+<line id="Line 31" x1="1300.5" y1="244.5" x2="1729.5" y2="244.5" stroke="white" stroke-width="11" stroke-linecap="square"/>
+<line id="Line 32" x1="1192.86" y1="55.5328" x2="1190.53" y2="444.526" stroke="white" stroke-width="11" stroke-linecap="square" stroke-dasharray="20 22"/>
+<path id="Arrow 11" d="M1041.54 368.536C1043.49 366.583 1043.49 363.417 1041.54 361.464L1009.72 329.645C1007.76 327.692 1004.6 327.692 1002.64 329.645C1000.69 331.597 1000.69 334.763 1002.64 336.716L1030.93 365L1002.64 393.284C1000.69 395.237 1000.69 398.403 1002.64 400.355C1004.6 402.308 1007.76 402.308 1009.72 400.355L1041.54 368.536ZM882 370H1038V360H882V370Z" fill="white"/>
+<path id="Arrow 10" d="M1434.46 151.464C1432.51 153.417 1432.51 156.583 1434.46 158.536L1466.28 190.355C1468.24 192.308 1471.4 192.308 1473.36 190.355C1475.31 188.403 1475.31 185.237 1473.36 183.284L1445.07 155L1473.36 126.716C1475.31 124.763 1475.31 121.597 1473.36 119.645C1471.4 117.692 1468.24 117.692 1466.28 119.645L1434.46 151.464ZM1438 160H1594V150H1438V160Z" fill="white"/>
+</g>
+<g id="zones_2">
+<path id="Vector 1_2" d="M1021.5 50L1185 241V50H1021.5Z" fill="#0057FF" fill-opacity="0.4"/>
+<path id="Vector 2_2" d="M1459.5 450L1296 259V450H1459.5Z" fill="#0057FF" fill-opacity="0.4"/>
+</g>
+</g>
+</g>
+</svg>

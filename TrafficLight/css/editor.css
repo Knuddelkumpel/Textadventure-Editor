@@ -1,0 +1,40 @@
+html, body, #wrapper{
+    height: 100%;
+    width: 100%;    
+    overflow: auto;
+}
+
+body{
+    background-image: linear-gradient(black 2px, transparent 2px),
+        linear-gradient(90deg, black 2px, transparent 2px),
+        linear-gradient(rgba(0,0,0,.3) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(0,0,0,.3) 1px, transparent 1px);
+    background-size: 100px 100px, 100px 100px, 20px 20px, 20px 20px;
+    background-position:-2px -2px, -2px -2px, -1px -1px, -1px -1px;
+    background-color: aliceblue;
+}
+
+#canvasContainer{
+    top: 56px; /* navbar */
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    width: auto;
+    height: auto;
+    overflow: scroll;
+}
+
+.scaler {
+    transform-origin: top left;
+    transform: scale(1);
+}
+.canvas {
+    width: 1000vw;
+    height: 1000vh;
+   
+}
+.canvas svg{
+    width: 100%;
+    height: 100%;   
+}

@@ -1,0 +1,68 @@
+:root {
+    --promptColor: #c3adec;
+    --optionColor: #5d3d99;
+    --conditionColor: #811a48;
+    --missingColor: #ca1616;
+    --playedColor: #296e29;
+}
+
+.option-active{
+    background-color: var(--optionColor);
+}
+.condition-active{
+    background-color: var(--conditionColor);
+}
+.option-inactive, .condition-inactive{
+    background-color: var(--missingColor);
+}
+/*🦥*/
+
+.optionLine, .promptLine, .conditionLine{
+    stroke-width:15;
+    stroke-linecap:round;
+}
+.optionLine{
+    stroke: var(--optionColor);
+}
+.promptLine{
+    stroke: var(--promptColor);
+}
+.conditionLine{
+    stroke: var(--conditionColor);
+}
+
+
+#optionStartMarker, #optionEndMarker{
+    fill: var(--optionColor);
+}
+#promptStartMarker, #promptEndMarker{
+    fill: var(--promptColor);
+}
+#conditionStartMarker, #conditionEndMarker{
+    fill: var(--conditionColor);
+}
+
+
+.textJumpLink {
+    vertical-align: baseline;
+    cursor: pointer;
+    display: inline-block;
+}
+.option-select, .textJumpLink{
+    
+    border-color: var(--optionColor);
+    background-color: initial;
+    color: var(--optionColor);
+}
+.option-select:hover, .textJumpLink:hover{
+    background-color: var(--optionColor);
+    color: white;
+}
+
+.bg-playedNode, .bg-playedOption{
+    background-color: var(--playedColor);
+}
+
+.prompt{
+    white-space: pre-wrap;  
+}
