@@ -42,7 +42,7 @@ function onExportText(e){
 
 function onLoadHausarbeit(e){
     var hausarbeit = loadFileFromServer("/Textadventure-Editor/TrafficLight/json/GameExport_Hausarbeit.json");
-    hausarbeit = JSON.parse(hausarbeit);
+    hausarbeit = JSON.parse(hausarbeit); 
     Storage.saveGame(hausarbeit); 
 
     createOrUpdateListEntrys();
